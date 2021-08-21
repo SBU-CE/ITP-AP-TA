@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from os import walk
 from os.path import join as join_paths
 

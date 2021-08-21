@@ -13,7 +13,7 @@ def check_rtl(checking_file):
         return 
     else:
         handler = open(checking_file,"w")
-        modified_content =f"{B_RTL}\n{file_content}\n{E_RTL}\n"
+        modified_content =f"{B_RTL}\n\n{file_content}\n{E_RTL}\n"
         handler.write(modified_content)
         handler.close()
         print(f"mission completed!{checking_file} modified successfully!!!!=)")

@@ -8,6 +8,6 @@
 - باید junit ۴ بلد باشید.
 - قالب کوئرا چطوریه؟
 - می‌تونید از [این اسکریپت](https://github.com/rsharifnasab/ta_utils/tree/master/junit_test_runner) کمک بگیرید.
-- داکیومنت خود کوئرا داره براش (کجاست؟)
+- داکیومنت خود کوئرا داره براش [لینک](https://quera.notion.site/34715e90e4db4dabac76b6eae6b51975)
 
 </div>
